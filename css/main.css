@@ -805,8 +805,8 @@ input.input100 {
   .w-full-ssm {
     width: 100%;
   }
-  .carousel-item {
-    position: inherit !important;
-  }
   /*---------------------------------------------*/
+}
+.carousel-item {
+  position: inherit !important;
 }
