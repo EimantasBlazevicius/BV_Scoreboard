@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/BV_Scoreboard/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/BV_Scoreboard/static/js/main.f92a08b8.chunk.js",
-    "main.js.map": "/BV_Scoreboard/static/js/main.f92a08b8.chunk.js.map",
+    "main.js": "/BV_Scoreboard/static/js/main.f663cc4f.chunk.js",
+    "main.js.map": "/BV_Scoreboard/static/js/main.f663cc4f.chunk.js.map",
     "runtime-main.js": "/BV_Scoreboard/static/js/runtime-main.4d60dfcb.js",
     "runtime-main.js.map": "/BV_Scoreboard/static/js/runtime-main.4d60dfcb.js.map",
     "static/css/2.43b2b750.chunk.css": "/BV_Scoreboard/static/css/2.43b2b750.chunk.css",
@@ -18,6 +18,6 @@
     "static/css/2.43b2b750.chunk.css",
     "static/js/2.e9a44ee3.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.f92a08b8.chunk.js"
+    "static/js/main.f663cc4f.chunk.js"
   ]
 }
