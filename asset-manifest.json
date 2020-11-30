@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/BV_Scoreboard/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/BV_Scoreboard/static/js/main.d58dc125.chunk.js",
-    "main.js.map": "/BV_Scoreboard/static/js/main.d58dc125.chunk.js.map",
+    "main.js": "/BV_Scoreboard/static/js/main.b68fd09a.chunk.js",
+    "main.js.map": "/BV_Scoreboard/static/js/main.b68fd09a.chunk.js.map",
     "runtime-main.js": "/BV_Scoreboard/static/js/runtime-main.4d60dfcb.js",
     "runtime-main.js.map": "/BV_Scoreboard/static/js/runtime-main.4d60dfcb.js.map",
     "static/css/2.0828334d.chunk.css": "/BV_Scoreboard/static/css/2.0828334d.chunk.css",
@@ -11,13 +11,14 @@
     "index.html": "/BV_Scoreboard/index.html",
     "static/css/2.0828334d.chunk.css.map": "/BV_Scoreboard/static/css/2.0828334d.chunk.css.map",
     "static/css/main.8c8b27cf.chunk.css.map": "/BV_Scoreboard/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.604af1b0.chunk.js.LICENSE.txt": "/BV_Scoreboard/static/js/2.604af1b0.chunk.js.LICENSE.txt"
+    "static/js/2.604af1b0.chunk.js.LICENSE.txt": "/BV_Scoreboard/static/js/2.604af1b0.chunk.js.LICENSE.txt",
+    "static/media/Slide15.f4ec82ff.png": "/BV_Scoreboard/static/media/Slide15.f4ec82ff.png"
   },
   "entrypoints": [
     "static/js/runtime-main.4d60dfcb.js",
     "static/css/2.0828334d.chunk.css",
     "static/js/2.604af1b0.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.d58dc125.chunk.js"
+    "static/js/main.b68fd09a.chunk.js"
   ]
 }
