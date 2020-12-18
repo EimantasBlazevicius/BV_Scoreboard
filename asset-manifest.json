@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/BV_Scoreboard/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/BV_Scoreboard/static/js/main.e2222344.chunk.js",
-    "main.js.map": "/BV_Scoreboard/static/js/main.e2222344.chunk.js.map",
+    "main.js": "/BV_Scoreboard/static/js/main.5c5cc691.chunk.js",
+    "main.js.map": "/BV_Scoreboard/static/js/main.5c5cc691.chunk.js.map",
     "runtime-main.js": "/BV_Scoreboard/static/js/runtime-main.4d60dfcb.js",
     "runtime-main.js.map": "/BV_Scoreboard/static/js/runtime-main.4d60dfcb.js.map",
     "static/css/2.0828334d.chunk.css": "/BV_Scoreboard/static/css/2.0828334d.chunk.css",
-    "static/js/2.604af1b0.chunk.js": "/BV_Scoreboard/static/js/2.604af1b0.chunk.js",
-    "static/js/2.604af1b0.chunk.js.map": "/BV_Scoreboard/static/js/2.604af1b0.chunk.js.map",
+    "static/js/2.d8dce99c.chunk.js": "/BV_Scoreboard/static/js/2.d8dce99c.chunk.js",
+    "static/js/2.d8dce99c.chunk.js.map": "/BV_Scoreboard/static/js/2.d8dce99c.chunk.js.map",
     "index.html": "/BV_Scoreboard/index.html",
     "static/css/2.0828334d.chunk.css.map": "/BV_Scoreboard/static/css/2.0828334d.chunk.css.map",
     "static/css/main.8c8b27cf.chunk.css.map": "/BV_Scoreboard/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.604af1b0.chunk.js.LICENSE.txt": "/BV_Scoreboard/static/js/2.604af1b0.chunk.js.LICENSE.txt",
+    "static/js/2.d8dce99c.chunk.js.LICENSE.txt": "/BV_Scoreboard/static/js/2.d8dce99c.chunk.js.LICENSE.txt",
     "static/media/Milda.7070383e.png": "/BV_Scoreboard/static/media/Milda.7070383e.png",
     "static/media/Rokas.31a64fcc.png": "/BV_Scoreboard/static/media/Rokas.31a64fcc.png",
     "static/media/Slide15.f4ec82ff.png": "/BV_Scoreboard/static/media/Slide15.f4ec82ff.png"
@@ -19,8 +19,8 @@
   "entrypoints": [
     "static/js/runtime-main.4d60dfcb.js",
     "static/css/2.0828334d.chunk.css",
-    "static/js/2.604af1b0.chunk.js",
+    "static/js/2.d8dce99c.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.e2222344.chunk.js"
+    "static/js/main.5c5cc691.chunk.js"
   ]
 }
